@@ -4,6 +4,8 @@
 A modern cinematic game landing page built with ⚛️ React + ⚡ Vite + 🎨 Tailwind + 🎬 GSAP animations.
 
 🚀 Live Preview
+https://multiverse-crossover-react-web-intr.vercel.app
+deployed on vercel 
 
 🧠 About The Project
 
